@@ -3,6 +3,7 @@
 #include <string.h>
 #include <time.h>
 
+
 struct Date {
   int day;
   int month;
