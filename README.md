@@ -20,7 +20,7 @@ This C program implements a turf booking system for managing turf slots, booking
 
 1. Compile the program using a C compiler.
    ```bash
-   gcc turf_booking_system.c -o turf_booking_system
+   gcc main.c -o turf_booking_system
    ```
 
 2. Run the compiled executable.
@@ -32,7 +32,7 @@ This C program implements a turf booking system for managing turf slots, booking
 
 ## File Structure
 
-- `turf_booking_system.c`: Main C program source code.
+- `main.c`: Main C program source code.
 - `turf.dat`: File storing turf slot information.
 - `booking.dat`: File storing booking information.
 
